@@ -137,7 +137,7 @@ python mask_app.py --checkpoint checkpoints/sam2.1_hiera_large.pt --config confi
 - **Multiple Segment Selection:** Create multiple masks within a single image.
 - **Live Preview:** Real-time visualization of segmentation results.
 
-![Image Segmentation](sam2_gui/image.png)
+![Image Segmentation](image.png)
 
 ### Video Segmentation
 - **Supported Formats:** MP4 (`.mp4`)
@@ -145,7 +145,7 @@ python mask_app.py --checkpoint checkpoints/sam2.1_hiera_large.pt --config confi
 - **Temporal Consistency:** Ensures consistent segmentation across frames.
 - **Interactive Editing:** Modify segmentation masks interactively for better accuracy.
 
-![Video Segmentation](sam2_gui/vedio.png)
+![Video Segmentation](vedio.png)
 
 ### Model Variations
 SAM2 offers different model configurations to suit various computational resources and accuracy requirements:
